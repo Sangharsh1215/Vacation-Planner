@@ -1,0 +1,9 @@
+Name,Price,Category,Example,Pickup Location,Return Location,People Capacity,Image URL
+Standard-Size Car,3696,Standard,Maruti Dzire Chauffeur Drive Only,Airline Flight Dtls Mandatory,Airline Flight Dtls Mandatory,5,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/av/7673/AV_SDMR_IN.png
+Mid-Size Car,3696,Mid-Size,Toyota Etios Chauffeur Drive Only,Airline Flight Dtls Mandatory,Airline Flight Dtls Mandatory,4,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/av/7673/AV_ICMR_IN.png
+Luxury Car,5628,Luxury Car,Honda City Chauffeur Drive Only,Airline Flight Dtls Mandatory,Airline Flight Dtls Mandatory,4,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/av/7673/AV_LDMR_IN.png
+Full-Size Van,5880,Passenger Van,Toyota Innova Crysta Chauffeur Drive On,Airline Flight Dtls Mandatory,Airline Flight Dtls Mandatory,6,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/av/7673/AV_FVMR_IN.png
+Economy Car,6048,Economy,Maruti Dzire 1.2,"Europcar, Chhatrapati Shivaji Maharaj","Europcar, Chhatrapati Shivaji Maharaj",4,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/fx/7623/FX_EDMR_IN.png?width=268&height=144&opto
+Compact Car,8316,Compact,Honda City 1.5,"Europcar, Chhatrapati Shivaji Maharaj","Europcar, Chhatrapati Shivaji Maharaj",4,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/fx/7623/FX_CDMR_IN.png?width=268&height=144&opto
+Standard-Size Diesel Van,10500,Passenger Van,Toyota Innova 2.4 Crysta,"Europcar, Chhatrapati Shivaji Maharaj","Europcar, Chhatrapati Shivaji Maharaj",7,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/fx/7623/FX_SVMD_IN.png?width=268&height=144&opto
+Premium Car,29400,Premium,Mercedes-benz Eclass Chauffeur Drive Only,Airline Flight Dtls Mandatory,Airline Flight Dtls Mandatory,4,https://s1.pclncdn.com/rc-static/v2/vehicles/partner/av/7673/AV_PDAR_IN.png
