@@ -105,10 +105,10 @@ Ensure you have the following installed:
 ![Plan Page Screenshot](screenshots/planpage.png)
 
 ### 📊 Results
-![Results Page Screenshot](screenshots/resultspage1.png)
-![Results Page Screenshot](screenshots/resultspage2.png)
-![Results Page Screenshot](screenshots/resultspage3.png)
-![Results Page Screenshot](screenshots/resultspage4.png)
+![Results Page Screenshot](screenshots/resultpage1.png)
+![Results Page Screenshot](screenshots/resultpage2.png)
+![Results Page Screenshot](screenshots/resultpage3.png)
+![Results Page Screenshot](screenshots/resultpage4.png)
 
 ---
 
